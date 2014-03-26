@@ -29,6 +29,12 @@ class opInstalledPluginManager
       {
         unset($result[$k]);
       }
+
+      // ちょきんばこプラグインを設定できないように変更
+      if ('opChokinbakoPlugin' === $v->getName())
+      {
+        unset($result[$k]);
+      }
     }
 
     return $result;
