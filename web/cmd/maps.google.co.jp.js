@@ -33,3 +33,4 @@ function main(id, googlemapsUrl) {
 
     document.write(html);
 }
+
