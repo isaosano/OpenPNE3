@@ -21,6 +21,7 @@ MINIMUM REQUIREMENTS
       * The "PDO" module is available (containing DBMS drivers that you want to use)
       * The "JSON" module is available
       * The GD library is available from PHP (That must be support JPEG, GIF and PNG)
+      * The "exif" module is available
       * The "mcrypt" module recommendation
       * The "APCu" module recommendation
   Database Server
@@ -42,6 +43,7 @@ RECOMMENDED SPECS
       * The "PDO" module is available (containing DBMS drivers that you want to use)
       * The "JSON" module is available
       * The GD library is available from PHP (That must be support JPEG, GIF and PNG)
+      * The "exif" module is available
       * The "mcrypt" module recommendation
       * The "APC" module recommendation
   Database Server
